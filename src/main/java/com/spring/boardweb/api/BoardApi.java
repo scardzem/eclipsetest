@@ -21,3 +21,4 @@ public class BoardApi {
 		return boardService.getBoardList(board, pageable);
 	}
 }
+//수정
